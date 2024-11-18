@@ -16,7 +16,7 @@ cout<<"result: "<<a+b<<endl;
 break;
 
 case '-':
-cout<<"result: "<<a-b<<endl;
+cout<<"result: "<<a-b<<ebdl;
 break;
 
 case '*':
